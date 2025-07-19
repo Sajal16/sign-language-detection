@@ -2,6 +2,11 @@
 
 This project detects hand gestures using MediaPipe and predicts sign language using an LSTM-based deep learning model.
 
+## 📹 Demo
+
+https://github.com/Sajal16/sign-language-detection/blob/main/Sign_Language_Detection_Demo.mp4
+
+
 ## 📂 Structure
 - `sign_language_detection.ipynb` – main notebook (training, evaluation)
 
